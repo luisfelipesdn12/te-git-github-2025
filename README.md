@@ -1,4 +1,4 @@
-# te-git-github-2025
+# te-git-github-2025/02
 Repositório colaborativo para as aulas no Tópico Especial de Git e Github ministrado pela Liga Acadêmica Experience na Universidade Mackenzie.
 
 ## Proposta
