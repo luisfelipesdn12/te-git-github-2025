@@ -1,0 +1,19 @@
+{
+    "imageUrl": "https://github.com/luisfelipesdn12.png",
+    "name": "Luis Felipe",
+    "description": "Sou um desenvolvedor Full Stack Pleno, formado em desenvolvimento de sistemas, estudante de sistemas de informação",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/luisfelipesdn12"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/luisfelipesdn12"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/luisfelipesdn12"
+        }
+    ]
+}
