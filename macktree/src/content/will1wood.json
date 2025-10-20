@@ -1,0 +1,13 @@
+{
+    "theme": "dracula",
+    "imageUrl": "https://github.com/Will1Wood.png",
+    "name": "William Madeiro da Silva",
+    "description": "Sou um estudante de desenvolvimento de sistemas, formando-se em desenvolvimento de sistemas",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/Will1Wood"
+        }
+        
+    ]
+}
