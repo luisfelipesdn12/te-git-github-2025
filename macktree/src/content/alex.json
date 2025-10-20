@@ -1,0 +1,19 @@
+{
+    "theme": "dracula",
+    "name": "Alex Cruz",
+    "description": "Sou um Analista Junior na Tokio Marine Seguradora, formado em Desenvolvimento de Sistemas, graduando de Sistemas de Informação",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/alexcruz14"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/alexcruz14"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/__alexcruz"
+        }
+    ]
+}
