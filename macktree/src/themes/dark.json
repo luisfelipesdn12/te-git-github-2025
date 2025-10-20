@@ -1,0 +1,20 @@
+{
+  "container": "font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 bg-gray-900 text-white",
+  "mainNotFound": "flex flex-col gap-[16px] row-start-2 items-center text-center max-w-[720px]",
+  "headingNotFound": "text-2xl font-semibold text-white",
+  "descriptionNotFound": "text-base/6 text-gray-300",
+  "hintNotFound": "text-sm text-gray-400",
+  "codeInline": "px-1 py-0.5 rounded bg-white/10 text-gray-200",
+  "codeInlineSpaced": "ml-1 px-1 py-0.5 rounded bg-white/10 text-gray-200",
+  "main": "flex flex-col gap-[24px] row-start-2 items-center text-center sm:items-center max-w-[720px] w-full",
+  "avatar": "rounded-full border border-white/20",
+  "header": "flex flex-col gap-[8px] items-center",
+  "title": "text-2xl font-semibold tracking-tight text-white",
+  "subheading": "text-base/6 text-gray-300 max-w-[60ch]",
+  "linksList": "w-full flex flex-col gap-[10px] mt-[8px]",
+  "listItem": "w-full",
+  "link": "w-full flex items-center gap-3 px-4 py-3 rounded-lg border border-white/15 hover:bg-white/[.06] transition-colors",
+  "favicon": "rounded-sm",
+  "linkText": "text-sm sm:text-base font-medium truncate text-white",
+  "emptyState": "text-sm text-gray-400"
+}
