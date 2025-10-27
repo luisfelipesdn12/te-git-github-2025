@@ -2,3 +2,4 @@
 
 - Luis Felipe
 - William
+- Rodrigo Nascimento Tomaz
