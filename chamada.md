@@ -1,3 +1,3 @@
 Nomes:
 - Luis Felipe
-- Aluno
+- Lorena Araia
