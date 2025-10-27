@@ -2,3 +2,5 @@
 
 - Luis Felipe
 - Victoria Helena 
+- William
+- Rodrigo Nascimento Tomaz
