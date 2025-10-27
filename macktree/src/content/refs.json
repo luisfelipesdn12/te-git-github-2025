@@ -1,0 +1,19 @@
+{
+    "imageUrl": "https://git-scm.com/images/logos/logomark-orange@2x.png",
+    "name": "Bibliografia TE Git/Github",
+    "description": "Segue links de apoio abaixo",
+    "links": [
+        {
+            "name": "Documentação GitHub",
+            "url": "https://docs.github.com/pt"
+        },
+        {
+            "name": "Documentação Git",
+            "url": "https://git-scm.com/docs"
+        },
+        {
+            "name": "Visualizer Git",
+            "url": "https://git-school.github.io/visualizing-git/"
+        }
+    ]
+}

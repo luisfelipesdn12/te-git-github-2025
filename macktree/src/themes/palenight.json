@@ -1,0 +1,20 @@
+{
+  "container": "font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 bg-[#292d3e] text-[#a6accd]",
+  "mainNotFound": "flex flex-col gap-[16px] row-start-2 items-center text-center max-w-[720px]",
+  "headingNotFound": "text-2xl font-semibold text-[#a6accd]",
+  "descriptionNotFound": "text-base/6 text-[#676e95]",
+  "hintNotFound": "text-sm text-[#676e95]",
+  "codeInline": "px-1 py-0.5 rounded-sm bg-[#1e1e2e] text-[#a6accd]",
+  "codeInlineSpaced": "ml-1 px-1 py-0.5 rounded-sm bg-[#1e1e2e] text-[#a6accd]",
+  "main": "flex flex-col gap-[24px] row-start-2 items-center text-center sm:items-center max-w-[720px] w-full",
+  "avatar": "rounded-lg border border-[#676e95]/40",
+  "header": "flex flex-col gap-[8px] items-center",
+  "title": "text-2xl font-semibold tracking-tight text-[#a6accd]",
+  "subheading": "text-base/6 text-[#c3e88d] max-w-[60ch]",
+  "linksList": "w-full flex flex-col gap-[8px] mt-[8px]",
+  "listItem": "w-full",
+  "link": "w-full flex items-center gap-3 px-4 py-3 rounded-md border border-[#676e95]/25 hover:bg-[#1e1e2e] transition-colors",
+  "favicon": "rounded-sm",
+  "linkText": "text-sm sm:text-base font-medium truncate text-[#a6accd]",
+  "emptyState": "text-sm text-[#676e95]"
+}

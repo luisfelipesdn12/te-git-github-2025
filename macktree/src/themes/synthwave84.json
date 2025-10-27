@@ -1,0 +1,20 @@
+{
+  "container": "font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 bg-[#241b2f] text-[#ff7edb]",
+  "mainNotFound": "flex flex-col gap-[16px] row-start-2 items-center text-center max-w-[720px]",
+  "headingNotFound": "text-2xl font-semibold text-[#ff7edb]",
+  "descriptionNotFound": "text-base/6 text-[#36f9f6]",
+  "hintNotFound": "text-sm text-[#36f9f6]",
+  "codeInline": "px-1 py-0.5 rounded-lg bg-[#2d1b3d] text-[#ff7edb]",
+  "codeInlineSpaced": "ml-1 px-1 py-0.5 rounded-lg bg-[#2d1b3d] text-[#ff7edb]",
+  "main": "flex flex-col gap-[24px] row-start-2 items-center text-center sm:items-center max-w-[720px] w-full",
+  "avatar": "rounded-2xl border-2 border-[#ff7edb]/50 shadow-lg shadow-[#ff7edb]/20",
+  "header": "flex flex-col gap-[8px] items-center",
+  "title": "text-2xl font-semibold tracking-tight text-[#ff7edb]",
+  "subheading": "text-base/6 text-[#36f9f6] max-w-[60ch]",
+  "linksList": "w-full flex flex-col gap-[14px] mt-[8px]",
+  "listItem": "w-full",
+  "link": "w-full flex items-center gap-3 px-4 py-3 rounded-lg border border-[#ff7edb]/30 hover:bg-[#2d1b3d] hover:shadow-md hover:shadow-[#ff7edb]/10 transition-all",
+  "favicon": "rounded-lg",
+  "linkText": "text-sm sm:text-base font-medium truncate text-[#ff7edb]",
+  "emptyState": "text-sm text-[#36f9f6]"
+}

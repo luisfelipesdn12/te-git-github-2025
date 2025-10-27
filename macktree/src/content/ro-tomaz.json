@@ -1,0 +1,20 @@
+{
+    "theme": "dracula",
+    "imageUrl": "https://github.com/ro-ntomaz.png",
+    "name": "Rodrigo Tomaz",
+    "description": "Sou estagiário em desenvolvimento de RPA e automações na Vivo, estudante de ciência da computação",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/ro-ntomaz"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/rodrigo-nascimento-tomaz-42b278273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/ho_nicetry?igsh=d2NoYzlzaXo5b2Fm"
+        }
+    ]
+}
